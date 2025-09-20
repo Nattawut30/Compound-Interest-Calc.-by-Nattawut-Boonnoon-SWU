@@ -8,6 +8,8 @@ A small personal school project inspired by Benjamin Graham, the father of value
 4. Enter your principal, interest rate, and number of years.
 5. Enjoy how your capital grows year by year.
 
+*** If it 404s error, clear browser cache (Ctrl+Shift+R) or try incognito mode. GitHub glitches ~5% of the time on first loads. ***
+
 ## Credits
 Built By Nattawut Boonnoon 770
 This project is part of the Python class in my Uni.
