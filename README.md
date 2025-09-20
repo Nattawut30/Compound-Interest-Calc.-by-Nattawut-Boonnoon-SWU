@@ -5,7 +5,7 @@ A small personal school project inspired by Benjamin Graham, the father of value
 1. Install Python.
 2. Download 'Nattawut_CI_Calc_SWU.py.'
 3. Run the code.
-4. Enter your principal, interest rate, and number of years.
+4. Enter your principal, interest rate, and time in years.
 5. Enjoy how your capital grows year by year.
 
 *** If it 404s error, clear browser cache (Ctrl+Shift+R) or try incognito mode ***
