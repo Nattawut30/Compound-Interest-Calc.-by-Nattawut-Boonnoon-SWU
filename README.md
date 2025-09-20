@@ -12,4 +12,4 @@ A Python tool to calculate compound interest with decimal time (e.g., 2.5 years)
 ## Credits
 Built By Nattawut Boonnoon 770
 This project is part of the Python class in my Uni.
-My Linkedin: www.linkedin.com/in/nattawut-bn
+My Linkedin: www.linkedin.com/in/nattawut-bn Thanks!
