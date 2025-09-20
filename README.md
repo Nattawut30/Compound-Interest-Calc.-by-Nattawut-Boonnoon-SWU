@@ -6,8 +6,8 @@ A Python tool to calculate compound interest with decimal time (e.g., 2.5 years)
 
 ## How to Run
 1. Install Python.
-2. Download 'Nattawut_CI_Calc_SWU.py'
-3. Run the file
+2. Download or Copy
+3. Run 'Nattawut_CI_Calc_SWU.py'
 
 ## Credits
 Built By Nattawut Boonnoon 770
