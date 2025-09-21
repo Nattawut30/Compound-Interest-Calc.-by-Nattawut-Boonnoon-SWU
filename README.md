@@ -1,6 +1,8 @@
 # Compound Interest Calculator by Nattawut Boonnoon
 *Update 2025: repo_404s_error & LICENSE fixed.*
 
+![Compound Interest Table Demo](Screenshot_CI.png)
+
 A beginner-friendly project inspired by Benjamin Graham, the father of value investing and calculated by the standard compound interest formula: **A = P(1 + r/n)^(nt)**
 <p>A: is the future value of the investment/loan, including interest.<p/>
 <p>P: is the principal amount, the initial sum of money.<p/>
