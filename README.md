@@ -20,6 +20,7 @@ A Python tool to calculate compound interest with decimal years (e.g., 2.5 for 2
 *** If you can't find my Python file, clear your browser cache or try on incognito mode ***
 
 ## Credits
-<br>Built By Nattawut Boonnoon 770.<br/> 
-<br>Created on Oct 30, 2022.<br/>
+<p>Built By Nattawut Boonnoon 770.<p/>
+<p>This project is part of the Python Programming course at Srinakharinwirot University.<p/>
+<p>Created on October 30, 2022.<p/>
 LinkedIn: www.linkedin.com/in/nattawut-bn
