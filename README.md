@@ -3,14 +3,14 @@
 
 ![Compound Interest Table Demo](Screenshot_CI.png)
 
-A beginner-friendly project inspired by Benjamin Graham, the father of value investing and calculated by the standard compound interest formula: **A = P(1 + r/n)^(nt)**
+A beginner-friendly project inspired by Benjamin Graham, the father of value investing, and calculated by the standard compound interest formula: **A = P(1 + r/n)^(nt)**
 <p>A: is the future value of the investment/loan, including interest.<p/>
 <p>P: is the principal amount, the initial sum of money.<p/>
 <p>r: is the annual interest rate (as a decimal).<p/>
 <p>n: is the number of times that interest is compounded per year.<p/>
 <p>t: is the number of years the money is invested or borrowed for.<p/>
 
-A Python tool to calculate compound interest with decimal years (e.g., 2.5 for 2 years + 6 months) and shows year-by-year growth in table.
+A Python tool that displays year-by-year growth in a table and computes compound interest with decimal years.
 
 ## How to Run
 1. Install Python.
