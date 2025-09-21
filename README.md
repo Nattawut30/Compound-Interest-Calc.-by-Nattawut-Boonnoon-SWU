@@ -1,5 +1,5 @@
 # Compound Interest Calculator by Nattawut Boonnoon
-*Update 2025: repo_404s_error & LICENSE fixed.*
+*--Update September 2025: fixed Repo_404_Error & LICENSE updated--*
 
 ![Compound Interest Table Demo](Screenshot_CI.png)
 
